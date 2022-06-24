@@ -1,2 +1,1 @@
 mkdir 0x00-vagrant
-echo 'My first read me 0x00-vagrant' > README.md
