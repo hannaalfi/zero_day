@@ -1,0 +1,2 @@
+mkdir 0x00-vagrant
+echo 'My first readme' > README.md
